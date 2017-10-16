@@ -10,6 +10,10 @@ Load extension within IPython:
 
 ```%load_ext biteymagic```
 
+## Install
+
+```pip install git+https://github.com/Lightslayer/biteymagic```
+
 ## Demos
 The following demos are taken, with slight modification, from the examples in the Bitey source.
 The Basics
