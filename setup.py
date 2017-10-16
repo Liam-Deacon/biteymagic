@@ -14,7 +14,7 @@ with io.open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 install_requires = [
     'jupyter>=1.0.0',
-    'bitey
+    'bitey'
 ]
 
 setup(
