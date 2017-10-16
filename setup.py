@@ -14,6 +14,7 @@ with io.open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 install_requires = [
     'jupyter>=1.0.0',
+    'bitey
 ]
 
 setup(
@@ -44,6 +45,6 @@ setup(
     # What does your project relate to?
     keywords='ipython jupyter notebook llvm compiler bitey',
 
-    py_modules=['inumpy'],
+    py_modules=['biteymagic'],
     install_requires=install_requires,
 )
